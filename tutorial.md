@@ -43,5 +43,6 @@ Markdown — это упрощенный язык разметки, исполь
 > [!WARNING] - предупреждение 
 > Dangerous certain consequences of an action.
 
-
-
+## Блок цитирования
+Блоки цитирования создаются с помощью символа >:
+> This is a blockquote. It is usually rendered indented and with a different background color. 
