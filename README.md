@@ -135,4 +135,4 @@ Text before [!INCLUDE [< title>] ( < filepath >) ] and after.
 Для того чтобы дабавить ветку в текущую ветку используется команда *git merge <name branch>*
 
 ## Удаление веток
-Для удаления ветки ввести команду "git branch -d 'name branch'"
+Для удаления ветки ввести    команду "git branch -d 'name branch'"
