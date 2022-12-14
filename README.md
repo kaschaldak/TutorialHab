@@ -136,3 +136,6 @@ Text before [!INCLUDE [< title>] ( < filepath >) ] and after.
 
 ## Удаление веток
 Для удаления ветки ввести    команду "git branch -d 'name branch'"
+
+ye8euifhuyt84u948
+jdfuge762390hjvnjeiru
